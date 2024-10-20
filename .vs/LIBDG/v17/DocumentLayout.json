@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\iserializable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:iserializable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|c:\\users\\nguyen truong duy\\source\\repos\\libdg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D5FB4D-573A-4961-AE98-18394986221F}|LIBDG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\FileHandler.cs",
+              "RelativeDocumentMoniker": "FileHandler.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\FileHandler.cs",
+              "RelativeToolTip": "FileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:46:53.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvywAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:45:55.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReturnTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\ReturnTransaction.cs",
+              "RelativeDocumentMoniker": "ReturnTransaction.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\ReturnTransaction.cs",
+              "RelativeToolTip": "ReturnTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:45:16.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\BorrowTransaction.cs",
+              "RelativeDocumentMoniker": "BorrowTransaction.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\BorrowTransaction.cs",
+              "RelativeToolTip": "BorrowTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:44:05.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:43:22.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:41:54.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Librarian.cs",
+              "RelativeDocumentMoniker": "Librarian.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Librarian.cs",
+              "RelativeToolTip": "Librarian.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:40:31.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Member.cs",
+              "RelativeDocumentMoniker": "Member.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Member.cs",
+              "RelativeToolTip": "Member.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:38:27.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISerializable.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\ISerializable.cs",
+              "RelativeDocumentMoniker": "ISerializable.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\ISerializable.cs",
+              "RelativeToolTip": "ISerializable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:37:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBorrowable.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\IBorrowable.cs",
+              "RelativeDocumentMoniker": "IBorrowable.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\IBorrowable.cs",
+              "RelativeToolTip": "IBorrowable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:35:41.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:34:35.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nguyen Truong Duy\\source\\repos\\LIBDG\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:34:02.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
