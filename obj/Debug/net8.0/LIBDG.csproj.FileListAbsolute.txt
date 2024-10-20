@@ -1,0 +1,4 @@
+C:\Users\Nguyen Truong Duy\source\repos\LIBDG\obj\Debug\net8.0\LIBDG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Truong Duy\source\repos\LIBDG\obj\Debug\net8.0\LIBDG.AssemblyInfoInputs.cache
+C:\Users\Nguyen Truong Duy\source\repos\LIBDG\obj\Debug\net8.0\LIBDG.AssemblyInfo.cs
+C:\Users\Nguyen Truong Duy\source\repos\LIBDG\obj\Debug\net8.0\LIBDG.csproj.CoreCompileInputs.cache
