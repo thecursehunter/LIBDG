@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LIBDG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+456d34da6ce24260bee109bf44d519e13fecda04")]
 [assembly: System.Reflection.AssemblyProductAttribute("LIBDG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LIBDG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,9 @@ namespace LIBDG
         public void Login()
         {
             Console.WriteLine($"{Name} has logged in.");
+            Console.WriteLine("TBB");
         }
-        //chứa các thuộc tính và phương thức chung giữa Member và Librarian. 
+        //chứa các thuộc tính và phương thức chung giữa Member và Librarian.
+        
     }
 }

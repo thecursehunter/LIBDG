@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\C#\\Object-Oriented-Programming\\LIBDG\\LIBDG.csproj": {}
+    "C:\\Users\\ADMIN\\Source\\Repos\\LIBDG\\LIBDG.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\C#\\Object-Oriented-Programming\\LIBDG\\LIBDG.csproj": {
+    "C:\\Users\\ADMIN\\Source\\Repos\\LIBDG\\LIBDG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C#\\Object-Oriented-Programming\\LIBDG\\LIBDG.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Source\\Repos\\LIBDG\\LIBDG.csproj",
         "projectName": "LIBDG",
-        "projectPath": "D:\\Projects\\C#\\Object-Oriented-Programming\\LIBDG\\LIBDG.csproj",
-        "packagesPath": "C:\\Users\\LilacNeverLoves\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C#\\Object-Oriented-Programming\\LIBDG\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Source\\Repos\\LIBDG\\LIBDG.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Source\\Repos\\LIBDG\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LilacNeverLoves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
